@@ -2,7 +2,7 @@ The data observed here highlights the fact that the data is missing certain race
 
 Data was collected via Seattle open data portal
 
-![Graphic](F2.jpg)
+![Graphic](FHW2.jpeg)
 
 https://app.flourish.studio/visualisation/28660384/edit
 https://data.seattle.gov/Public-Safety/Seattle-Real-Time-Fire-911-Calls/kzjm-xkqj/about_data
