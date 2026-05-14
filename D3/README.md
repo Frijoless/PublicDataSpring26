@@ -1,6 +1,6 @@
 This is a simple example of D3 Graphing 
 
-![Graphic](D3.jpg)
+![Graphic](D3.jpeg)
 
 
 Data was collected from
